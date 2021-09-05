@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="turn.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Turn Sing Note DOWN0000" x="0" y="0" width="1163" height="661" frameX="-27" frameY="0" frameWidth="1218" frameHeight="661"/>
+	<SubTexture name="Turn Sing Note DOWN0001" x="0" y="0" width="1163" height="661" frameX="-27" frameY="0" frameWidth="1218" frameHeight="661"/>
+	<SubTexture name="Turn Sing Note DOWN0002" x="1163" y="0" width="1218" height="633" frameX="0" frameY="-27" frameWidth="1218" frameHeight="661"/>
+	<SubTexture name="Turn Sing Note DOWN0003" x="1163" y="0" width="1218" height="633" frameX="0" frameY="-27" frameWidth="1218" frameHeight="661"/>
+	<SubTexture name="Turn Sing Note DOWN0004" x="1163" y="0" width="1218" height="633" frameX="0" frameY="-27" frameWidth="1218" frameHeight="661"/>
+	<SubTexture name="Turn Sing Note DOWN0005" x="1163" y="0" width="1218" height="633" frameX="0" frameY="-27" frameWidth="1218" frameHeight="661"/>
+	<SubTexture name="Turn Sing Note DOWN0006" x="1163" y="0" width="1218" height="633" frameX="0" frameY="-27" frameWidth="1218" frameHeight="661"/>
+	<SubTexture name="Turn Sing Note DOWN0007" x="1163" y="0" width="1218" height="633" frameX="0" frameY="-27" frameWidth="1218" frameHeight="661"/>
+	<SubTexture name="Turn Sing Note DOWN0008" x="1163" y="0" width="1218" height="633" frameX="0" frameY="-27" frameWidth="1218" frameHeight="661"/>
+	<SubTexture name="Turn Sing Note DOWN0009" x="1163" y="0" width="1218" height="633" frameX="0" frameY="-27" frameWidth="1218" frameHeight="661"/>
+	<SubTexture name="Turn Sing Note DOWN0010" x="1163" y="0" width="1218" height="633" frameX="0" frameY="-27" frameWidth="1218" frameHeight="661"/>
+	<SubTexture name="Turn Sing Note DOWN0011" x="1163" y="0" width="1218" height="633" frameX="0" frameY="-27" frameWidth="1218" frameHeight="661"/>
+	<SubTexture name="Turn Sing Note DOWN0012" x="1163" y="0" width="1218" height="633" frameX="0" frameY="-27" frameWidth="1218" frameHeight="661"/>
+	<SubTexture name="Turn Sing Note DOWN0013" x="1163" y="0" width="1218" height="633" frameX="0" frameY="-27" frameWidth="1218" frameHeight="661"/>
+	<SubTexture name="Turn Sing Note LEFT0000" x="2381" y="0" width="591" height="911"/>
+	<SubTexture name="Turn Sing Note RIGHT0000" x="2972" y="0" width="881" height="874" frameX="0" frameY="0" frameWidth="920" frameHeight="874"/>
+	<SubTexture name="Turn Sing Note RIGHT0001" x="2972" y="0" width="881" height="874" frameX="0" frameY="0" frameWidth="920" frameHeight="874"/>
+	<SubTexture name="Turn Sing Note RIGHT0002" x="2972" y="0" width="881" height="874" frameX="0" frameY="0" frameWidth="920" frameHeight="874"/>
+	<SubTexture name="Turn Sing Note RIGHT0003" x="0" y="911" width="906" height="874" frameX="-14" frameY="0" frameWidth="920" frameHeight="874"/>
+	<SubTexture name="Turn Sing Note RIGHT0004" x="0" y="911" width="906" height="874" frameX="-14" frameY="0" frameWidth="920" frameHeight="874"/>
+	<SubTexture name="Turn Sing Note RIGHT0005" x="0" y="911" width="906" height="874" frameX="-14" frameY="0" frameWidth="920" frameHeight="874"/>
+	<SubTexture name="Turn Sing Note RIGHT0006" x="0" y="911" width="906" height="874" frameX="-14" frameY="0" frameWidth="920" frameHeight="874"/>
+	<SubTexture name="Turn Sing Note RIGHT0007" x="0" y="911" width="906" height="874" frameX="-14" frameY="0" frameWidth="920" frameHeight="874"/>
+	<SubTexture name="Turn Sing Note RIGHT0008" x="0" y="911" width="906" height="874" frameX="-14" frameY="0" frameWidth="920" frameHeight="874"/>
+	<SubTexture name="Turn Sing Note RIGHT0009" x="0" y="911" width="906" height="874" frameX="-14" frameY="0" frameWidth="920" frameHeight="874"/>
+	<SubTexture name="Turn Sing Note RIGHT0010" x="0" y="911" width="906" height="874" frameX="-14" frameY="0" frameWidth="920" frameHeight="874"/>
+	<SubTexture name="Turn Sing Note RIGHT0011" x="0" y="911" width="906" height="874" frameX="-14" frameY="0" frameWidth="920" frameHeight="874"/>
+	<SubTexture name="Turn Sing Note RIGHT0012" x="0" y="911" width="906" height="874" frameX="-14" frameY="0" frameWidth="920" frameHeight="874"/>
+	<SubTexture name="Turn Sing Note RIGHT0013" x="0" y="911" width="906" height="874" frameX="-14" frameY="0" frameWidth="920" frameHeight="874"/>
+	<SubTexture name="Turn Sing Note UP0000" x="906" y="911" width="923" height="860" frameX="0" frameY="-72" frameWidth="923" frameHeight="932"/>
+	<SubTexture name="Turn Sing Note UP0001" x="906" y="911" width="923" height="860" frameX="0" frameY="-72" frameWidth="923" frameHeight="932"/>
+	<SubTexture name="Turn Sing Note UP0002" x="906" y="911" width="923" height="860" frameX="0" frameY="-72" frameWidth="923" frameHeight="932"/>
+	<SubTexture name="Turn Sing Note UP0003" x="906" y="911" width="923" height="860" frameX="0" frameY="-72" frameWidth="923" frameHeight="932"/>
+	<SubTexture name="Turn Sing Note UP0004" x="1829" y="911" width="863" height="932" frameX="-30" frameY="0" frameWidth="923" frameHeight="932"/>
+	<SubTexture name="Turn Sing Note UP0005" x="1829" y="911" width="863" height="932" frameX="-30" frameY="0" frameWidth="923" frameHeight="932"/>
+	<SubTexture name="Turn Sing Note UP0006" x="1829" y="911" width="863" height="932" frameX="-30" frameY="0" frameWidth="923" frameHeight="932"/>
+	<SubTexture name="Turn Sing Note UP0007" x="1829" y="911" width="863" height="932" frameX="-30" frameY="0" frameWidth="923" frameHeight="932"/>
+	<SubTexture name="Turn Sing Note UP0008" x="1829" y="911" width="863" height="932" frameX="-30" frameY="0" frameWidth="923" frameHeight="932"/>
+	<SubTexture name="Turn Sing Note UP0009" x="1829" y="911" width="863" height="932" frameX="-30" frameY="0" frameWidth="923" frameHeight="932"/>
+	<SubTexture name="Turn Sing Note UP0010" x="1829" y="911" width="863" height="932" frameX="-30" frameY="0" frameWidth="923" frameHeight="932"/>
+	<SubTexture name="Turn Sing Note UP0011" x="1829" y="911" width="863" height="932" frameX="-30" frameY="0" frameWidth="923" frameHeight="932"/>
+	<SubTexture name="Turn Sing Note UP0012" x="1829" y="911" width="863" height="932" frameX="-30" frameY="0" frameWidth="923" frameHeight="932"/>
+	<SubTexture name="Turn Sing Note UP0013" x="1829" y="911" width="863" height="932" frameX="-30" frameY="0" frameWidth="923" frameHeight="932"/>
+	<SubTexture name="Turn idle dance0000" x="2692" y="911" width="507" height="719" frameX="-17" frameY="-4" frameWidth="591" frameHeight="739"/>
+	<SubTexture name="Turn idle dance0001" x="2692" y="911" width="507" height="719" frameX="-17" frameY="-4" frameWidth="591" frameHeight="739"/>
+	<SubTexture name="Turn idle dance0002" x="2692" y="911" width="507" height="719" frameX="-17" frameY="-4" frameWidth="591" frameHeight="739"/>
+	<SubTexture name="Turn idle dance0003" x="3199" y="911" width="526" height="724" frameX="-18" frameY="-4" frameWidth="591" frameHeight="739"/>
+	<SubTexture name="Turn idle dance0004" x="3199" y="911" width="526" height="724" frameX="-18" frameY="-4" frameWidth="591" frameHeight="739"/>
+	<SubTexture name="Turn idle dance0005" x="3199" y="911" width="526" height="724" frameX="-18" frameY="-4" frameWidth="591" frameHeight="739"/>
+	<SubTexture name="Turn idle dance0006" x="0" y="1843" width="543" height="724" frameX="-31" frameY="0" frameWidth="591" frameHeight="739"/>
+	<SubTexture name="Turn idle dance0007" x="0" y="1843" width="543" height="724" frameX="-31" frameY="0" frameWidth="591" frameHeight="739"/>
+	<SubTexture name="Turn idle dance0008" x="0" y="1843" width="543" height="724" frameX="-31" frameY="0" frameWidth="591" frameHeight="739"/>
+	<SubTexture name="Turn idle dance0009" x="543" y="1843" width="591" height="736" frameX="0" frameY="-3" frameWidth="591" frameHeight="739"/>
+	<SubTexture name="Turn idle dance0010" x="543" y="1843" width="591" height="736" frameX="0" frameY="-3" frameWidth="591" frameHeight="739"/>
+	<SubTexture name="Turn idle dance0011" x="543" y="1843" width="591" height="736" frameX="0" frameY="-3" frameWidth="591" frameHeight="739"/>
+	<SubTexture name="Turn idle dance0012" x="543" y="1843" width="591" height="736" frameX="0" frameY="-3" frameWidth="591" frameHeight="739"/>
+	<SubTexture name="Turn idle dance0013" x="543" y="1843" width="591" height="736" frameX="0" frameY="-3" frameWidth="591" frameHeight="739"/>
+</TextureAtlas>
